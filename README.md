@@ -37,4 +37,4 @@ npm run test:watch
 
 
 ---
-⌨️ con ❤️ por [YoussefSalinas](https://github.com/YoussefSalinas)
+⌨️ por [YoussefSalinas](https://github.com/YoussefSalinas)
